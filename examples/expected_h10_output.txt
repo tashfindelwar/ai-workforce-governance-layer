@@ -1,0 +1,32 @@
+{
+  "architect-05": {
+    "flag": false,
+    "q_slope": 0.00248,
+    "v_slope": 0.00089
+  },
+  "draft-03": {
+    "flag": false,
+    "q_slope": -0.02895,
+    "v_slope": -0.05769
+  },
+  "moderator-04": {
+    "flag": true,
+    "severity": "high",
+    "q_slope": 0.03348,
+    "v_slope": -0.07057,
+    "divergence_per_week": 0.10404,
+    "recommended_action": "operator_audit_required"
+  },
+  "outreach-01": {
+    "flag": false,
+    "q_slope": 0.02328,
+    "v_slope": 0.04184
+  },
+  "research-02": {
+    "flag": false,
+    "q_slope": -0.00068,
+    "v_slope": -0.00305
+  }
+}
+
+1 agent(s) flagged for operator review: ['moderator-04']
