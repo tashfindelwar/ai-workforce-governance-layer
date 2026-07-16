@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use these artifacts, please cite the paper below."
 title: "AI Workforce Governance Layer — Reference Artifacts"
-version: 1.0.0
-date-released: 2026-07-11
+version: 1.0.1
+date-released: 2026-07-16
 authors:
   - family-names: Delwar
     given-names: Tashfin
@@ -10,6 +10,7 @@ authors:
     website: https://tashfin.com
 repository-code: "https://github.com/tashfindelwar/ai-workforce-governance-layer"
 license: MIT
+doi: 10.5281/zenodo.21396612
 preferred-citation:
   type: article
   title: "A Governance-Layer Architecture for Human-Governed AI Workforces"

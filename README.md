@@ -1,8 +1,10 @@
 # AI Workforce Governance Layer — Reference Artifacts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21396612.svg)](https://doi.org/10.5281/zenodo.21396612)
+
 Reference implementation of **Layer H (Governance)** from the working paper
 *A Governance-Layer Architecture for Human-Governed AI Workforces* (Delwar, 2026;
-arXiv ID to be added on publication).
+arXiv ID to be added on publication). Paper landing page: [tashfin.com/research/v7-paper](https://tashfin.com/research/v7-paper/) · Archival DOI: [10.5281/zenodo.21396612](https://doi.org/10.5281/zenodo.21396612).
 
 The Governance Layer treats agent governance as **organizational performance
 management** — per-agent cost and value attribution, earned resource budgets, and
